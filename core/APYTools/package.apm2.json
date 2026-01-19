@@ -1,0 +1,6 @@
+{
+    "loader": "APYTools",
+    "name": "apytools",
+    "version": "0.2.1",
+    "description": "A set of tools for Python development."
+}
